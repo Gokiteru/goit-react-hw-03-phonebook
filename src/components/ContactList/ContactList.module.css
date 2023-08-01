@@ -23,3 +23,9 @@
     background-color: rgba(23, 26, 32, 1);
     cursor: pointer;
 }
+
+.contactList{
+    height: 300px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
